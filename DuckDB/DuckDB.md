@@ -1,6 +1,6 @@
 # OldDog
 
-The repository contains the code that accompanies the blog post
+This directory contains the code that accompanies the blog post, and has been changed to use DuckDB instead of MonetDB
 [Teaching An Old Dog a new Trick](https://www.chriskamphuis.com/2019/03/06/teaching-an-old-dog-a-new-trick.html).
 
 ## Preliminaries
